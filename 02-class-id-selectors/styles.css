@@ -1,0 +1,19 @@
+/* styles.css */
+
+.class1{
+    background-color: #ffc0cb;
+}
+
+.class2{
+    font-size: 24px;
+}
+
+#id1 {
+    color: #00f;
+    font-size: 36px;
+}
+
+#id2{
+    background-color: #008000;
+    font-weight: bold;
+}
